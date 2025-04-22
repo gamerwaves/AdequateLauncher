@@ -1,4 +1,5 @@
-# <img src=".github/assets/logo.png" alt="Ampler Logo" align="right" width="175px"> Ampler Launcher v1.2.00
+# <img src=".github/assets/logo.png" alt="Adequate Logo" align="right" width="175px"> Adequate Launcher v0.0.00 (unrealesed)
+<b>Fork of [AmplerLauncher](https://github.com/irv77/AmplerLauncher)</b> <br>
  A minecraft themed launcher for Eaglercraft!<br>
  Containing some of the best clients all in one place!
 
@@ -8,9 +9,7 @@
 <hr>
 
  ## Versions
- __v1.2.00__ - Updated games.<br>
- __v1.1.00__ - Updated code and optimized!<br>
- __v1.0.00__ - Main code with future updates planned!
+__v0.0.00__ - Start of Adequate Launcher!
 
  <hr>
 
@@ -27,15 +26,16 @@
 
 - [ ] Add Credits screen
 - [ ] Add Settings screen
-- [x] Rewrite some of the css and js
+- [ ] Rewrite some of the css and js
 - [ ] Organize code, and add comments
 - [ ] Add a customizable launcher selector
 - [ ] Add the servers screen
 - [ ] Fix display errors
 - [ ] Offline launcher download?
 - [ ] Implement top bar options
+- [ ] Start Coding Adequate Launcher
 </details>
 
 <hr>
 
->__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of the code!__
+>__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of Ampler Launcher (Adequate Launcher is not released yet.)!__
